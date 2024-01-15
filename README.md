@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We understand the significance of maintaining accurate and up-to-date electricity billing records. The Smart Electricity Billing System is designed to streamline the billing process, providing a user-friendly interface, secure payment options, and an automated billing system. This project revolutionizes traditional paper-based billing methods, bringing efficiency and reliability to electricity billing.
+
 
 ## Features
 
