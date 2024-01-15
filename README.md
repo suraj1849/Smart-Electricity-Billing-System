@@ -16,6 +16,7 @@ A centralized location for customer billing and payment data facilitates easy ma
 Eliminates manual billing processes, reducing costs associated with paper bills, postage, and manual payment processing.
 
 ### 4. Customer Management
+Allows utility companies to manage customer information, including personal details, contact information, and billing preferences.
 
 ### 5. Meter Reading
 Enables recording and management of meter readings manually or automatically through smart meters.
